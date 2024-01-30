@@ -36,7 +36,7 @@ The core purpose of the Leghato is to create a centralized and user-friendly pla
 -    5. Location-Based Services: The platform incorporates location-based services to allow potential clients to easily find and connect with musicians, studios, instrument vendors, and music teachers closest to their location. This enhances convenience and accessibility for users.
 -    6. Community Building: The platform fosters a sense of community among musicians, studios, vendors, and teachers, facilitating collaboration, networking, and knowledge sharing within the local music ecosystem.
         
- In a nutshell, the core purpose of the Music Connect platform is to provide a comprehensive solution that addresses the specific needs of musicians, studios, instrument vendors, music teachers, and potential clients, while creating a vibrant and interconnected music community within the targeted geographical area.
+ In a nutshell, the core purpose of Leghato is to provide a comprehensive solution that addresses the specific needs of musicians, studios, instrument vendors, music teachers, and potential clients, while creating a vibrant and interconnected music community within the targeted geographical area.
 
    #### - key Features and Benefits of the Platform.
    ##### 1. Musicians:
