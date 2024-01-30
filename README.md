@@ -1,5 +1,10 @@
 # Leghato
-The virtual music marketplace
+The virtual music marketplace. A centralized and user-friendly platform that connects musicians, music studios, instrument vendors, music teachers, and potential clients. 
+
+### Prototype
+**Nb: This Prototype is far from being finished, however it communicate the whole idea of Leghato.*
+##### figma Prototype link
+https://www.figma.com/proto/6atot9QXZeQaqUNNuMucr5/Main-Project?type=design&node-id=1-2&t=Ml44KDKDJR0IJqxl-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A1022&mode=design
 ### HISTORICAL BACKGROUND
     
  Over the past decade, the music industry has experienced significant transformations due to technological advancements and the digital revolution. The rise of streaming services, online music platforms, and social media has opened up new opportunities for musicians to reach a wider audience and promote their work. However, there was still a need for a dedicated platform that connects musicians and music-related services with potential clients in a more targeted and efficient manner.
